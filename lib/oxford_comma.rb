@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  final_string
+  final_string = ""
   if array.size == 1
     final_string = array.to_s
   elsif array.size == 2
